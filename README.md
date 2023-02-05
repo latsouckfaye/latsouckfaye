@@ -1,7 +1,29 @@
-### Hi there 👋
+###### Hi there 👋
 
-- :man_student: I’m a PhD student in Biostatistics,
+<h4> I am a Data scientist </h4>
+
+- :man_student: I’m a Ph.D student in Biostatistics,
 - 🔭 currently working with spatial statistical tools and data,
 - 🌱 trying to automate an approach for mapping coral reef habitats using statistical learning algorithms.
+<h5 align="left"> Data science tools :</h5>
+<p align="left"> <img width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30"/>
 
+<h4> Also passionated by web developement </h4>
 
+<h5 align="left">Web development languages and Tools:</h5>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ </p>
+
+<h3 align="left"> Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/paul-aimé-latsouck-faye-b31161165​" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/paul-aimé-latsouck-faye-b31161165​" height="30" width="40" /></a>
+</p>
