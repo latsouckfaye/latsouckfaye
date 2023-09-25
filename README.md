@@ -1,27 +1,9 @@
-###### Hi there 👋
+###### Hi👋, Paul here !
 
-<h4> I am a Data scientist </h4>
+- 👨🏻‍💻 I am a Data Engineer at the end of a Ph. D. thesis in Applied mathematics.
 
-- :man_student: Currently PhD student in Biostatistics,
-- 🔭 I'm working with spatial statistical tools and data,
-- 🌱 trying to automate coral reef habitats mapping using statistical learning algorithms.
-<h5 align="left"> My main data science tools :</h5>
-<p align="left"> <img width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+- 🔭 Last 03 years, I have worked on spatial analysis of seafloor data and built predictive models for geomorphological maps.
 
-<h5> Also passionated by Web Development </h5>
+- ❤️ Passionate by web development, I enjoy programming and automating routine tasks on web interfaces in my sparse time.​ I like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places. 
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
- </p>
 
-<h3 align="left"> You can connect with me via :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/paul-aimé-latsouck-faye-b31161165​" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/paul-aimé-latsouck-faye-b31161165​" height="30" width="40" /></a>
-</p>
