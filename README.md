@@ -1,10 +1,11 @@
-###### Hi👋, Paul here !
+Hi👋 
 
-- 👨🏻‍💻 I am a Data Analyst / Engineer.
-  
-- 🔭 Currently, I am at the end of a Ph. D. thesis in Applied mathematics.
-- I have worked the last three years on spatial analysis of seafloor data. I have proposed machine learning based methodology for geomorphologic mapping and provide tools/algorithms for reproducibility. I hope this work will be sooner published and available for the community.
+- I am Paul, a Data Engineer / Analyst. 
 
-- ❤️ Passionate by web development, I enjoy programming and automating routine tasks on web interfaces in my sparse time.​ I like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places. 
+- 🔭 Passionate by Data wrangling and web development, I enjoy programming and automating routine tasks on web interfaces.
+
+- 👨🏻‍💻 Last three years, I have worked on spatial analysis of seafloor data as part of my doctoral thesis. I have built Machine Learning based tools to automate seafloor geomorphologic mapping.
+
+- ❤️ I also like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places. 
 
 
