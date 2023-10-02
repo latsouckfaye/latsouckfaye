@@ -1,11 +1,12 @@
-Hi👋 
+Hi👋, welcome to my website.
 
-- I am Paul, a Data Engineer / Analyst. 
+I am a Data Engineer / Analyst. 
 
-- 🔭 Passionate by Data Analysis and web development, I enjoy programming and automating routine tasks on web interfaces.
+👨🏻‍💻 Recently, I have worked on spatial analysis of seafloor data. I have built a Machine Learning based methodology to automate seafloor geomorphologic mapping and provide statistical tools for reproducibility. I received my Master of Science (MS) degree in [Applied Mathematics and Computer Science](https://sciences-technologies.univ-lille.fr/mathematiques/formation/master-mention-miashs) from the University of Lille (France).
 
-- 👨🏻‍💻 Last three years, I have worked on spatial analysis of seafloor data as part of my doctoral thesis. I have built Machine Learning based tools to automate seafloor geomorphologic mapping.
+🔭 As a Data passionate, I enjoy automating and deploying web applications for Data Analysis.​
 
-- ❤️ I also like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places. 
+❤️ I also like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places.
+
 
 
