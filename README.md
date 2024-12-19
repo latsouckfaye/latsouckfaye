@@ -1,12 +1,18 @@
-Hi👋, welcome to my website.
+Hi there! 👋 Welcome to my little corner of the web 🌍
+I’m a Data Scientist 🧠✨ with a passion for solving complex problems and turning data into stories.
 
-I am a Data Engineer / Analyst. 
+👨🏻‍💻 What I’ve been up to recently:
+I’ve been diving deep (pun intended!) into the spatial analysis of seafloor data 🌊. I developed a Machine Learning-powered methodology to automate seafloor geomorphologic mapping and crafted statistical tools to make the process reproducible and reliable. If that sounds fancy, it’s because it is! 🚀
 
-👨🏻‍💻 Recently, I have worked on spatial analysis of seafloor data. I have built a Machine Learning based methodology to automate seafloor geomorphologic mapping and provide statistical tools for reproducibility. I received my Master of Science (MS) degree in [Applied Mathematics and Computer Science](https://sciences-technologies.univ-lille.fr/mathematiques/formation/master-mention-miashs) from the University of Lille (France).
+🎓 I hold a Master of Science (MS) degree in Applied Mathematics and Computer Science from the University of Lille, France 🇫🇷.
 
-🔭 As a Data passionate, I enjoy automating and deploying web applications for Data Analysis.​
+🔭 What excites me:
+I’m all about automating workflows and building sleek, deployable apps for data analysis. There’s nothing more satisfying than creating tools that make complex tasks simple and scalable.
 
-❤️ I also like to draw, write short narrative texts/poems, read, go for a run, travel to meet people and discover new places.
+❤️ When I’m not crunching data:
+You’ll probably find me exploring my creative side! I love to draw, write short stories and poems, read books that expand my perspective, run to clear my mind, or travel to meet amazing people and discover breathtaking places.
+
+Let’s connect, build cool things, and make data dance! 💃📊
 
 
 
